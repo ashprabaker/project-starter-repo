@@ -1,12 +1,6 @@
-# Mckay's App Template
+# Ash's App Template
 
-This is a full-stack app template for courses on [Takeoff](https://JoinTakeoff.com/).
-
-## Sponsors
-
-If you are interested in sponsoring my repos, please contact me at [ads@takeoffai.org](mailto:ads@takeoffai.org).
-
-Or sponsor me directly on [GitHub Sponsors](https://github.com/sponsors/mckaywrigley).
+Modified from Mckay Wrigley's Takeoff starter template
 
 ## Tech Stack
 
@@ -29,8 +23,6 @@ They all have free plans that you can use to get started.
 - Create a [Clerk](https://clerk.com/) account
 - Create a [Stripe](https://stripe.com/) account
 - Create a [Vercel](https://vercel.com/) account
-
-You will likely not need paid plans unless you are building a business.
 
 ## Environment Variables
 
